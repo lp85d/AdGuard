@@ -27,3 +27,5 @@ reg.ru##footer.sc-footer:nth-child(2)
 mashagpt.ru###__next > main.__variable_ba39f4:last-child > div.__variable_b8547f.font-sf-pro-display > div.fixed.inset-0.z-\[500\].h-full.w-full.flex.items-center.justify-center.bg-black\/50.px-3.py-6.shrink-0:first-child
 
 yandex.ru##.Button2, .Button2_pin_circle-circle, .Button2_size_l, .Distribution-SplashScreenModalCloseButtonOuter
+
+yandex.ru##.Distribution-Popup, .Distribution-Popup_motley_yellow, .Distribution-Popup_layout_rectangle, .Distribution-Popup_animation_slide-show, .Distribution-Popup_location_bottom, .Distribution-Popup_visible
